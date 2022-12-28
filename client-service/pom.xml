@@ -21,12 +21,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>com.sarang.devproblems</groupId>
-            <artifactId>proto</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
+             </dependency>
         <dependency>
             <groupId>net.devh</groupId>
             <artifactId>grpc-client-spring-boot-starter</artifactId>
