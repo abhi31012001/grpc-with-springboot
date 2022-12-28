@@ -13,13 +13,4 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-grpc</name>
     <description>Demo Project of gRPC in Spring boot</description>
-    <developers>
-        <developer>
-            <name>A Sarang Kumar Tak</name>
-            <email>sarangdevproblems@gmail.com</email>
-            <url>hhttps://www.linkedin.com/in/sarang-kumar-tak-1454ba111/</url>
-            <organization>Youtube</organization>
-            <organizationUrl>https://www.youtube.com/channel/UCVno4tMHEXietE3aUTodaZQ</organizationUrl>
-        </developer>
-    </developers>
 </project>
