@@ -8,7 +8,6 @@
         <module>grpc-service</module>
         <module>proto</module>
     </modules>
-    <groupId>com.sarang.devproblems</groupId>
     <artifactId>spring-boot-grpc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-grpc</name>
