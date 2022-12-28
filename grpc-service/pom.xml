@@ -20,7 +20,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.sarang.devproblems</groupId>
             <artifactId>proto</artifactId>
             <version>0.0.1-SNAPSHOT</version>
             <exclusions>
